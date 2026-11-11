@@ -1,5 +1,5 @@
 
-<!--
+
 
 - 🎓 CS student at Telecom Nancy, graduating in 2027
 - 🔧 I work at the intersection of embedded systems and machine learning: Edge AI, TinyML, real-time systems
@@ -8,4 +8,4 @@
 - 🎯 Looking for a 6 months internship in embedded software, Edge AI, ..
 - 📫 How to reach me: guillaume.anacker@yahoo.com
 
--->
+
